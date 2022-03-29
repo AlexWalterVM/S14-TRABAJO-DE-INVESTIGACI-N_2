@@ -69,4 +69,6 @@
         justify-content: center;
         align-items: center;
     }
-
+.input:valid {
+      background-color:  rgb(112, 228, 141);
+}
